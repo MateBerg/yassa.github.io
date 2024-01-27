@@ -1,4 +1,4 @@
-# cwkx.com sources
+# Yassa's Personal Website
 
 This website is based on [suckless.org](https://suckless.org/) and follows the [suckless philosophy](https://suckless.org/philosophy/).
 
